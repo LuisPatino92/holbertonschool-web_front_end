@@ -1,5 +1,8 @@
 /* Using Variables */
 
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
 :root {
 	--color-primary: #d73953;
 	--color-black: #090909;
