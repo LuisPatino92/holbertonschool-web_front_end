@@ -843,7 +843,7 @@ ul.row {
 	padding-left: 7rem;
 }
 
-.post-content>.section-title {
+.post-content .section-title {
 	font-variant: small-caps;
 }
 
